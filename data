@@ -8,12 +8,12 @@
       {
         "id": 101,
         "title": "Глава 1",
-        "url": "https://example.com/audio1.mp3"
+        "url": "https://raw.githubusercontent.com/maksim992538/ArduinoJsonTest/refs/heads/main/1.mp3"
       },
       {
         "id": 102,
         "title": "Глава 2",
-        "url": "https://example.com/audio2.mp3"
+        "url": "https://raw.githubusercontent.com/maksim992538/ArduinoJsonTest/refs/heads/main/1.mp3"
       }
     ]
   }
