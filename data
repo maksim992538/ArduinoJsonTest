@@ -1,4 +1,20 @@
-{
-"LED":"False",
-"LED1":"True"
-}
+[
+  {
+    "id": 1,
+    "title": "Название книги",
+    "author": "Автор",
+    "cover": "https://archive.org/download/selkuncikimysinyjcar_2210_librivox/shchelkunchikimyshinyytsar_2211.jpg",
+    "chapters": [
+      {
+        "id": 101,
+        "title": "Глава 1",
+        "url": "https://example.com/audio1.mp3"
+      },
+      {
+        "id": 102,
+        "title": "Глава 2",
+        "url": "https://example.com/audio2.mp3"
+      }
+    ]
+  }
+]
